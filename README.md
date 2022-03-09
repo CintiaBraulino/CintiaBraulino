@@ -28,6 +28,6 @@
   ##
   ### Sobre Me
   Sou deficiente auditiva parcial faço o uso AASI (Aparelho Amplificação Sonora Individual), eu sempre quis saber como funcionava aquela tecnologia, como ele era 
-  programado, e como um objeto tão pequeno me fazia ouvir o mundo então comecei a estudar sobre tecnologia como placas, programação, embarcação, e me apaixonei 
+  programado, e como um objeto tão pequeno me fazia ouvir o mundo então comecei a estudar sobre tecnologia como placas, programação, e me apaixonei 
   por esse mundo. Atualmente estou estudando para poder criar novas tecnologias e plataformas que de alguma forma ajudem pessoas com algum tipo de deficiência como eu. 
   
