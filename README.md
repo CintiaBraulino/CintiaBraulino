@@ -48,5 +48,12 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintiabraulino&hide=HTML&langs_count=8&layout=compact&theme=aura&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/><br/>
+<hr/>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=AD29F7&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
   
